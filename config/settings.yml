@@ -1,0 +1,4 @@
+plugins:
+  enable_markdown_ruby:
+    default: true
+    client: true

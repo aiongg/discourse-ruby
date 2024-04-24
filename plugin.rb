@@ -8,4 +8,4 @@
 
 enabled_site_setting :enable_markdown_ruby
 
-register_asset "javascripts/vendor/markdown-it-ruby.js", :vendored_pretty_text
+# register_asset "javascripts/vendor/markdown-it-ruby.js", :vendored_pretty_text

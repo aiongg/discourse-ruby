@@ -2,7 +2,7 @@
 
 # name: discourse-ruby
 # about: Adds markdown.it ruby support to Discourse
-# version: 0.1
+# version: 0.2
 # authors: aiong
 # url: https://github.com/aiongg/discourse-ruby
 
